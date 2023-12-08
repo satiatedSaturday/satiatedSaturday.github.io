@@ -130,6 +130,7 @@ section{
    align-items: center;
    justify-content: center;
    background: url(images/team.JPG) no-repeat max-width:"100%";
+   max-width:"100%";
    background-size: cover;
    background-attachment: fixed;
    background-position: center;
