@@ -138,6 +138,8 @@ section{
    max-width: 60rem;
    text-align: center;
 }
+.home .content img{
+    max-width: 100%
 
 .home .content h3{
     margin-top: -8rem;
